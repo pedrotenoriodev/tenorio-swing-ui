@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Component id="jPanel1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+              <Component id="jPanel1" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+            <EtchetBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                      <Component id="modernInfoButton1" pref="154" max="32767" attributes="0"/>
+                      <Component id="modernButton1" alignment="0" max="32767" attributes="0"/>
+                      <Component id="modernOutlineButton1" alignment="0" max="32767" attributes="0"/>
+                      <Component id="modernDangerButton1" alignment="0" max="32767" attributes="0"/>
+                      <Component id="modernIconButton1" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="modernRoundedButton1" pref="141" max="32767" attributes="0"/>
+                      <Component id="modernSuccessButton1" max="32767" attributes="0"/>
+                      <Component id="modernToggleButton1" max="32767" attributes="0"/>
+                      <Component id="modernWarningButton1" max="32767" attributes="0"/>
+                      <Component id="modernDropdownButton1" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="modernLinkButton1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="modernCircleButton1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="modernLoadingButton1" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="modernSplitButton1" min="-2" max="-2" attributes="0"/>
+                      <Component id="modernSegmentedButton1" alignment="0" min="-2" pref="291" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="modernButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="modernCircleButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="modernRoundedButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="modernLinkButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="modernOutlineButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="modernSuccessButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="modernLoadingButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="modernDangerButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="modernToggleButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="modernSplitButton1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="modernIconButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="modernWarningButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="modernInfoButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="modernDropdownButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Component id="modernSegmentedButton1" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="20" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernButton" name="modernButton1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernOutlineButton" name="modernOutlineButton1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernCircleButton" name="modernCircleButton1">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="modernCircleButton1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernDangerButton" name="modernDangerButton1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernIconButton" name="modernIconButton1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="modernIconButton1"/>
+          </Properties>
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernInfoButton" name="modernInfoButton1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernRoundedButton" name="modernRoundedButton1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernSuccessButton" name="modernSuccessButton1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernToggleButton" name="modernToggleButton1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernWarningButton" name="modernWarningButton1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernDropdownButton" name="modernDropdownButton1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernLinkButton" name="modernLinkButton1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernLoadingButton" name="modernLoadingButton1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.buttons.ModernSplitButton" name="modernSplitButton1">
+        </Component>
+        <Container class="br.com.tenorio.swing.ui.buttons.ModernSegmentedButton" name="modernSegmentedButton1">
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout">
+            <Property name="alignment" type="int" value="0"/>
+            <Property name="horizontalGap" type="int" value="0"/>
+            <Property name="verticalGap" type="int" value="0"/>
+          </Layout>
+          <SubComponents>
+            <Component class="br.com.tenorio.swing.ui.buttons.ModernButton" name="modernButton2">
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+            <EtchetBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="modernSearchField2" alignment="0" pref="0" max="32767" attributes="0"/>
+                              <Component id="modernTextField1" alignment="0" max="32767" attributes="0"/>
+                              <Component id="modernDocumentField1" alignment="0" max="32767" attributes="0"/>
+                              <Component id="modernPhoneField1" alignment="0" max="32767" attributes="0"/>
+                              <Component id="modernPercentField1" alignment="0" pref="181" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="modernPasswordField1" min="-2" pref="181" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="modernComboBox1" pref="213" max="32767" attributes="0"/>
+                                      <Component id="modernEmailField1" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="modernBarcodeField1" min="-2" pref="149" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="modernNumberField1" min="-2" pref="219" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace pref="153" max="32767" attributes="0"/>
+                          <Component id="modernCurrencyField1" min="-2" pref="216" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="modernFormattedField1" min="-2" pref="213" max="-2" attributes="0"/>
+                              <Component id="modernTextArea2" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="modernBarcodeField1" alignment="0" max="32767" attributes="0"/>
+                      <Component id="modernCurrencyField1" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="modernPasswordField1" min="-2" pref="30" max="-2" attributes="0"/>
+                          <EmptySpace min="0" pref="12" max="32767" attributes="0"/>
+                      </Group>
+                      <Component id="modernComboBox1" alignment="1" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="modernEmailField1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="modernTextField1" pref="39" max="32767" attributes="0"/>
+                      <Component id="modernNumberField1" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+                          <Component id="modernSearchField2" min="-2" pref="38" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="modernPhoneField1" min="-2" pref="34" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="modernDocumentField1" pref="40" max="32767" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="modernTextArea2" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="modernFormattedField1" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                      <Component id="modernPercentField1" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="br.com.tenorio.swing.ui.fields.ModernPasswordField" name="modernPasswordField1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.fields.ModernTextField" name="modernTextField1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.fields.ModernComboBox" name="modernComboBox1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.fields.ModernEmailField" name="modernEmailField1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.fields.ModernFormattedField" name="modernFormattedField1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="modernFormattedField1"/>
+          </Properties>
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.fields.ModernNumberField" name="modernNumberField1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.fields.ModernCurrencyField" name="modernCurrencyField1">
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.fields.ModernPhoneField" name="modernPhoneField1">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="modernPhoneField1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.fields.ModernDocumentField" name="modernDocumentField1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="modernDocumentField1"/>
+          </Properties>
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.fields.ModernSearchField" name="modernSearchField2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="modernSearchField2"/>
+          </Properties>
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.fields.ModernBarcodeField" name="modernBarcodeField1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="modernBarcodeField1"/>
+          </Properties>
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.fields.ModernPercentField" name="modernPercentField1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="0,01 %"/>
+          </Properties>
+        </Component>
+        <Component class="br.com.tenorio.swing.ui.fields.ModernTextArea" name="modernTextArea2">
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
